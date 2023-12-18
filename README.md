@@ -4,7 +4,7 @@ I'm a Assistant Professor of Huazhong University of Science and Technilogy (HUST
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Assistant Professor of Electrical Engineering ()
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
