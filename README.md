@@ -13,7 +13,7 @@ I'm a Assistant Professor of Huazhong University of Science and Technilogy (HUST
 - 💬 Ask me about anything [here](https://github.com/lyhehehe/lyhehehe/issues)
 
 
-| <a href="https://github.com/lyhehehe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lyhehehe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="LUYANG's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/lyhehehe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lyhehehe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="LUYANG's github stats" /></a> | <a href="https://github.com/lyhehehe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
@@ -28,10 +28,3 @@ I'm a Assistant Professor of Huazhong University of Science and Technilogy (HUST
 
 <br />
 <br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
