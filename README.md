@@ -18,8 +18,8 @@ I'm a Assistant Professor of Huazhong University of Science and Technilogy (HUST
 #### Top Repositories
 
 
-<a href="https://github.com/lyhehehe/ChatGPT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyhehehe&repo=ChatGPT&theme=buefy" />
+<a href="https://github.com/lyhehehe/chatgpt_academic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyhehehe&repo=chatgpt_academic&theme=buefy" />
 </a>
 <a href="https://github.com/lyhehehe/lyhehehe.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyhehehe&repo=lyhehehe.github.io&theme=buefy" />
