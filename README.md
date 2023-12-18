@@ -22,8 +22,8 @@ I'm a Assistant Professor of Huazhong University of Science and Technilogy (HUST
 <a href="https://github.com/lyhehehe/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyhehehe&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/lyhehehe/lyhehehe.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyhehehe&repo=lyhehehe.github.io&theme=buefy" />
 </a>
 
 <br />
