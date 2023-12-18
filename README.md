@@ -15,12 +15,11 @@ I'm a Assistant Professor of Huazhong University of Science and Technilogy (HUST
 
 | <a href="https://github.com/lyhehehe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lyhehehe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="LUYANG's github stats" /></a> | <a href="https://github.com/lyhehehe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyhehehe&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
 #### Top Repositories
 
 
 <a href="https://github.com/lyhehehe/ChatGPT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyhehehe&repo=vChatGPT&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyhehehe&repo=ChatGPT&theme=buefy" />
 </a>
 <a href="https://github.com/lyhehehe/lyhehehe.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyhehehe&repo=lyhehehe.github.io&theme=buefy" />
